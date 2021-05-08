@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srivaani1401
+- 👋 Hye, I’m Srivaani Vasoo
 - 👀 I would like to share more coding
 - 🌱 I’m currently learning web deveploments, python and mobile developments
 - 💞️ I’m looking to collaborate on web design
